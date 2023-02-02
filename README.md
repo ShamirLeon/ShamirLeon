@@ -1,10 +1,17 @@
-### Hola 👋 soy Shamir León
+### Hola 👋 soy Shamir León🦁.
 
-## Desarrollor Junior FrontEnd de Colombia
+## Desarrollor Junior FrontEnd de Colombia en búsqueda de experiencia🤓.
+
+<h2>Apasionado por:</h2>
++ Codificar🧑🏻‍💻
++ Apredizaje Autodidacta🤓
++ Videojuegos🎮.
++ Música🎧.
+
 
 <h2>Actualmente estoy aprendiendo: </h2>
 
-<h3>FrontEnd:</h3>
+<h3>📱FrontEnd:</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,7 +21,7 @@
   <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
 </p
   
-<h3>BackEnd:</h3>
+<h3>⚙️BackEnd:</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -22,7 +29,7 @@
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
 </p>
 
-<h3>Herramientas:</h3>
+<h3>🛠️Herramientas:</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -36,7 +43,9 @@
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 </p>
-  
+
+##Social: 
+  [Front End Mentor Profile] : https://www.frontendmentor.io/profile/ShamirLeon
 <!--
 **ShamirLeon/ShamirLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
