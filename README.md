@@ -38,7 +38,7 @@
 </p>
 
 ## Social📫: 
-  [Front End Mentor Profile] [https://www.frontendmentor.io/profile/ShamirLeon]
+  [Front End Mentor Profile][https://www.frontendmentor.io/profile/ShamirLeon]
   
   
 <!-- ### Apasionado por:
