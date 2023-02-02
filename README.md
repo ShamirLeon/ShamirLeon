@@ -4,7 +4,7 @@
 
 ## Actualmente estoy aprendiendo: 
 
-<h4>Lenguajes de programación:</h4>
+<h4>FrontEnd:</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
 </p
   
- <h3>Tecnologías BackEnd:</h3>
+<h4>BackEnd:</h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
 </p>
 
- <h3>Herramientas:</h3>
+ <h4>Herramientas:</h4>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
- <h3>Linters:</h3>
+ <h4>Linters:</h4>
 <p>
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
