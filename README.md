@@ -1,8 +1,8 @@
-### Hola 👋 soy Shamir León🦁.
+## Hola 👋 soy Shamir León🦁.
 
-## Desarrollor Junior FrontEnd de Colombia en búsqueda de experiencia🤓.
+### Desarrollor Junior FrontEnd de Colombia en búsqueda de experiencia🤓.
 
-# Apasionado por:
+## Apasionado por:
 + Codificar🧑🏻‍💻
 + Apredizaje Autodidacta🤓
 + Videojuegos🎮.
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 </p>
 
-##Social: 
+## Social: 
   [Front End Mentor Profile] : https://www.frontendmentor.io/profile/ShamirLeon
 <!--
 **ShamirLeon/ShamirLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
