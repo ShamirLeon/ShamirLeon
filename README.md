@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
 </p
   
-<h3>⚙️BackEnd:</h3>
+<h3>⚙️ BackEnd:</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
 </p>
 
-<h3>🛠️Herramientas:</h3>
+<h3>🛠️ Herramientas:</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -38,14 +38,14 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
- <h3>Linters:</h3>
+ <h3>🔧 Linters:</h3>
 <p>
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 </p>
 
 ## Social: 
-  [Front End Mentor Profile] : https://www.frontendmentor.io/profile/ShamirLeon
+  [Front End Mentor Profile] [https://www.frontendmentor.io/profile/ShamirLeon]
 <!--
 **ShamirLeon/ShamirLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
