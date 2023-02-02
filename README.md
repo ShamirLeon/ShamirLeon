@@ -13,8 +13,9 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Axios-BD1FE0?style=for-the-badge">
 </p
+ _ _ _
   
-<h3>⚙️ BackEnd:</h3>
+<h3>📱FrontEnd:</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
