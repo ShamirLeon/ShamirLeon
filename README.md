@@ -2,7 +2,7 @@
 
 ## Desarrollor Junior FrontEnd de Colombia en búsqueda de experiencia🤓.
 
-#Apasionado por:
+# Apasionado por:
 + Codificar🧑🏻‍💻
 + Apredizaje Autodidacta🤓
 + Videojuegos🎮.
