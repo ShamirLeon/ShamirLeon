@@ -1,6 +1,6 @@
 ## Hola 👋 soy Shamir León🦁.
 
-### Desarrollor Junior FrontEnd de Colombia en búsqueda de experiencia.
+### Desarrollor FrontEnd.
 
 <h2>🌱 Actualmente estoy aprendiendo: </h2>
 
